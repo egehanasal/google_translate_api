@@ -1,2 +1,2 @@
-# google_translate_api_project
+# Google Translate Api Project
 - Reads the .txt file given and writes it's translated verison to another .txt file.
